@@ -1,4 +1,4 @@
-[README (3).md](https://github.com/user-attachments/files/30554585/README.3.md)
+[README.md](https://github.com/user-attachments/files/30554585/README.3.md)
 
 # Hello, I'm Bhoomi Dembani
 
@@ -25,8 +25,7 @@
 - 🌐 Completed a **Web Development Internship** at GlobCred, building responsive websites with HTML, CSS, and JavaScript
 - 🏆 Ranked among the top 300 participants in Nexus AI Quiz Ignite 2026 (Unstop)
 - 🎓 Central Coordinator Team (CCT) member — helps organize university-wide activities and the annual event
-- 📋 Discipline Coordinator (DC) for my class
-- 🎯 Certification roadmap: Security+ → eJPT → AWS Cloud Practitioner
+
 
 ---
 
