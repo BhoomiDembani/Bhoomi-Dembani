@@ -2,7 +2,7 @@
 
 # Hello, I'm Bhoomi Dembani
 
-### 🎓 BCA (Cybersecurity & Cloud Computing) Student, Semester V | 8.0 CGPA | 🛡️ Aspiring SOC Analyst L1 | Cybersecurity Trainee
+🎓 Final-Year BCA (Cybersecurity & Cloud Computing) Student | 🛡️ SOC Analyst L1 (Aspiring) | 🤖 AI Enthusiast
 
 🚀 I enjoy building end-to-end security projects — from encryption systems and access control to AI-assisted alert triage — and shipping them as working, deployable tools, not just code on paper.
 
