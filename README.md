@@ -4,8 +4,7 @@
 
 🎓 Final-Year BCA (Cybersecurity & Cloud Computing) Student | 🛡️ SOC Analyst L1 (Aspiring) | 🤖 AI Enthusiast
 
-🚀 I enjoy building end-to-end security projects — from encryption systems and access control to AI-assisted alert triage — and shipping them as working, deployable tools, not just code on paper.
-
+🔐 I build the security tools I'm learning about — encryption systems, access control, AI-assisted alert triage — instead of just reading the theory. Right now that means SOC practice on one side and two AI internships on the other.
 ---
 
 ### 🔗 Quick Links
