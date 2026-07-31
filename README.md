@@ -42,7 +42,7 @@ Python · Flask · Kali Linux · Wireshark · Splunk · Burp Suite · VirusTotal
 | **SOC Alert Triage Copilot** | AI-assisted triage system that classifies, prioritizes, and explains security alerts, mapped to MITRE ATT&CK, with a live analyst dashboard | Python, Flask, HTML/CSS/JS |
 | **CyberShield** | End-to-end secure data system with AES-256-CBC encryption, RSA-2048, TOTP MFA, RBAC, hash-chained audit logging, and PII classification | Python, Flask |
 
-📌 More projects on my [GitHub](https://github.com/YOUR-USERNAME)
+📌 More projects on my [GitHub](https://github.com/BhoomiDembani)
 
 ---
 
