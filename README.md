@@ -51,7 +51,7 @@ Python · Flask · Kali Linux · Wireshark · Splunk · Burp Suite · VirusTotal
 - **AI Intern**, Edunet Foundation × IBM SkillsBuild — AI for Non-Technical Students (Jul–Aug 2026)
 - **AI Intern**, 1M1B — AI for Sustainability Virtual Internship, in collaboration with AICTE & IBM SkillsBuild (Jul–Aug 2026)
 - **Cybersecurity Intern**, Cloud Counselage GPI Program — built and deployed CyberShield
-- **Web Development Intern**, GlobCred — built responsive websites with HTML, CSS, JavaScript
+- **Generative AI Intern**, GlobCred — built responsive websites with HTML, CSS, JavaScript
 
 ---
 
