@@ -22,7 +22,7 @@
 - 🔐 Focused on SOC operations, encryption, access control, and vulnerability assessment (VAPT)
 - 🤖 Currently pursuing two AI internships: **Edunet Foundation × IBM SkillsBuild** (AI for Non-Technical Students) and **1M1B AI for Sustainability Virtual Internship** (in collaboration with AICTE & IBM SkillsBuild)
 - 🧪 Completed the **Cloud Counselage Global Professional Internship**, building CyberShield — a Python-based secure data system with AES-256, RSA-2048, TOTP MFA, RBAC, and hash-chained audit logging
-- 🌐 Completed a **Web Development Internship** at GlobCred, building responsive websites with HTML, CSS, and JavaScript
+- 🌐 Completed a **Generative AI** at GlobCred, building responsive websites with HTML, CSS, and JavaScript
 - 🏆 Ranked among the top 300 participants in Nexus AI Quiz Ignite 2026 (Unstop)
 - 🎓 Central Coordinator Team (CCT) member — helps organize university-wide activities and the annual event
 
